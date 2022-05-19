@@ -4,3 +4,7 @@ yellow
 green
 blue
 purple
+brown 
+pink 
+silver
+gold
